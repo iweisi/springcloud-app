@@ -1,23 +1,20 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+/.project
+/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/springcloud-app.iml
+.idea/workspace.xml
+springcloud-app-common/springcloud-app-common.iml
+springcloud-app-config/springcloud-app-config.iml
+springcloud-app-eureka/springcloud-app-eureka.iml
+springcloud-app-schedule/springcloud-app-schedule.iml
+springcloud-app-system-api/springcloud-app-api.iml
+springcloud-app-system-api/springcloud-app-system-api.iml
+springcloud-app-system/springcloud-app-service.iml
+springcloud-app-system/springcloud-app-system.iml
+springcloud-app-zuul/springcloud-app-zuul.iml
+/springcloud-app-system/logs/spring-app.log
+/.idea/vcs.xml
