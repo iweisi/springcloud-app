@@ -52,7 +52,7 @@
 - 10.启动断路器监控汇总springcloud-app-turbine 访问端口8989
 - 11.启动断路器监控springcloud-app-hystrix 访问端口1301/hystrix
 - 12.启动链路追踪springcloud-app-zipkin 访问端口9411
-- 13.下载https://gitee.com/vmaps/app-ui 更改对应include.js
+- 13.下载https://github.com/vmaps3/admin-ui 更改对应include.js
 - 14.启动nginx 访问端口80/html
 
 ## qq交流群
